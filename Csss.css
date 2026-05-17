@@ -1,11 +1,12 @@
 body {
 
-  background-image: url('science.jpg');
+  background-image: url('science2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     color: white;
+}
   
   comment-box{
             width: 300px;
